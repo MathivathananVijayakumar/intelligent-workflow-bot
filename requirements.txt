@@ -1,9 +1,6 @@
 streamlit
 openai
-email
-pdfplumber
-PyMuPDF
 pymongo
-python-docx
-langchain
 python-dotenv
+python-docx
+PyMuPDF
